@@ -17,7 +17,6 @@ from os import path
 # --- Globals ----------------------------------------------
 PLUGINS = """
 vim-go https://github.com/fatih/vim-go
-ansible-vim https://github.com/pearofducks/ansible-vim
 """.strip()
 
 GITHUB_ZIP = "%s/archive/master.zip"
